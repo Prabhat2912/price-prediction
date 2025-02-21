@@ -1,0 +1,8 @@
+numpy
+gym
+pandas
+stable_baselines3
+shimmy
+itertools
+pickle
+joblib
